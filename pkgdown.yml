@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  cchic_overview: cchic_overview.html
+  data_clean: data_clean.html
+last_built: 2021-07-11T12:27Z
+urls:
+  reference: https://docs.ropensci.org/cleanEHR/reference
+  article: https://docs.ropensci.org/cleanEHR/articles
+
